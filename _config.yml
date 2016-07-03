@@ -1,0 +1,14 @@
+layout_spectrum: 0.4775662536267191
+typography_spectrum: 0.3870229609310627
+color:
+  brandStrength: 0.8976562761235982
+  lightness: 0.6285556135699153
+  saturation: 0.09897422487847507
+  rhythmicContrast: 0.5750893149524927
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: genie
